@@ -1,0 +1,26 @@
+{
+  "short_name": "مدرسة يزيد",
+  "name": "الغياب الإلكتروني مدرسة يزيد بن الحارث",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/yazeed-school/",
+  "display": "standalone",
+  "background_color": "#1a2a6c",
+  "theme_color": "#1a2a6c",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar"
+}
+
